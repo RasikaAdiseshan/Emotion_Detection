@@ -4,4 +4,5 @@ To use our emotion detection model
 1)Clone or download and unzip our repository
 2)Install tensorflow  and cv2 in the system using pip
 3)Run the model_creation.ipynb and gui.py files
-4)Upload images and you are ready to use the model
+4)Upload images and click on the detect button to detect the emotion 
+You are now ready to use the model!!
